@@ -845,7 +845,7 @@ body > h1:first-of-type:not(.heading) {
                     </div>
                     <div class="nav-item deepchat-item" data-page="chat">
                             <i class="fas fa-message"></i>
-                            <span>Deep Chat</span>
+                            <span>Nysa Chat</span>
                         </div>
                         <div class="nav-item" data-page="places">
                             <i class="fas fa-landmark"></i>
